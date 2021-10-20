@@ -1,0 +1,34 @@
+(base) ➜  TNV /home/urbe/Tools/art_bin_MountRainier/art_illumina  -ss HS25 -sam -i lambda.fa -l 150 -f 10 -o single_dat
+
+    ====================ART====================
+             ART_Illumina (2008-2016)
+          Q Version 2.5.8 (June 7, 2016)
+     Contact: Weichun Huang <whduke@gmail.com>
+    -------------------------------------------
+
+                  Single-end Simulation
+
+Total CPU time used: 0.09
+
+The random seed for the run: 1634721918
+
+Parameters used during run
+        Read Length:    150
+        Genome masking 'N' cutoff frequency:    1 in 150
+        Fold Coverage:            10X
+        Profile Type:             Combined
+        ID Tag:
+
+Quality Profile(s)
+        First Read:   HiSeq 2500 Length 150 R1 (built-in profile)
+
+Output files
+
+  FASTQ Sequence File:
+        single_dat.fq
+
+  ALN Alignment File:
+        single_dat.aln
+
+  SAM Alignment File:
+        single_dat.sam
